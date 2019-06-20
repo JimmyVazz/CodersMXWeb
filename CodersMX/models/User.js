@@ -6,7 +6,7 @@ const userSchema = new Schema({
   email: String,
   contraseña: String,
   categoria: {
-    tipo: String,
+    type: String,
     enum:['PROFESOR', 'ESTUDIANTE', 'AUTODIDACTA']
   },
   direccion: String,

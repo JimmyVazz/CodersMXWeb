@@ -20,7 +20,7 @@ a {
   height: 80vh; }
 
 .login .login-sidebar {
-  background: url("https://images.pexels.com/photos/926390/pexels-photo-926390.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260") center center no-repeat;
+  background: url("https://images.pexels.com/photos/1516440/pexels-photo-1516440.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940") center center no-repeat;
   background-size: cover;
   display: flex;
   align-items: center;
@@ -35,7 +35,7 @@ a {
   bottom: 0;
   left: 0;
   z-index: 1;
-  background-image: linear-gradient(to bottom right, #21AEA2, #6472A5);
+  background-image: linear-gradient(to bottom right, #84c4be, #112158);
   opacity: .8; }
 
 .login .login-sidebar .login-gradient-background {
@@ -74,13 +74,13 @@ a {
   color: #787877; }
 
 .login-form-wrapper .field-box .login-btn-group .login-btn {
-  background: #6472A5;
+  background: #203379;
   color: #ffffff;
   border-radius: 18px;
   padding: 0.57em 2em; }
 
 .login-form-wrapper .field-box .login-btn-group .forgot-link {
-  color: #777777;
+  color: #00B7FF;
   font-size: 0.85em; }
 
 .login-form-wrapper .field-box .login-btn-group .forgot-link:hover {
